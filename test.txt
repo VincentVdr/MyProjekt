@@ -1,3 +1,9 @@
 Hallå där; tjena mors Patrik.
 
+<<<<<<< HEAD
 VINNY VINCENT
+=======
+
+
+TEst t222 22 aaa
+>>>>>>> 1182a943c148c3bfc6a7fbea3a16f5d046b687ba
